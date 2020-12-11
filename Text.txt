@@ -1,0 +1,418 @@
+SEO goes to work.
+Intern goes to work.
+Manager goes to work.
+SEO waits in line for the elevator.
+Manager waits in line for the elevator.
+SEO calls the elevator.
+The elevator is here.
+Intern waits in line for the elevator.
+SEO entered the elevator.
+Manager calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+SEO is at secret floor with nuclear weapons.
+SEO is leaving the elevator.
+SEO waits in line for the elevator.
+SEO calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at G.
+Manager entered the elevator.
+Intern calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Manager is at secret floor with nuclear weapons.
+Manager is leaving the elevator.
+Manager waits in line for the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at G.
+Intern entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+			3 sec has passed.
+The elevator is at G.
+Intern is at ground floor.
+Intern is leaving the elevator.
+Intern waits in line for the elevator.
+Intern calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+SEO entered the elevator.
+Manager calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at G.
+SEO is at ground floor.
+SEO is leaving the elevator.
+SEO waits in line for the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Manager entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at G.
+Manager is at ground floor.
+Manager is leaving the elevator.
+Manager waits in line for the elevator.
+The elevator is here.
+Intern entered the elevator.
+SEO calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at G.
+Intern is at ground floor.
+Intern is leaving the elevator.
+Intern waits in line for the elevator.
+The elevator is here.
+SEO entered the elevator.
+Manager calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+SEO is at secret floor with experimental weapons.
+SEO is leaving the elevator.
+SEO waits in line for the elevator.
+SEO calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at G.
+Manager entered the elevator.
+Intern calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+Manager is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Manager is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Manager is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Manager is at secret floor with nuclear weapons.
+Manager is leaving the elevator.
+Manager waits in line for the elevator.
+Manager calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+SEO entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+SEO is at secret floor with nuclear weapons.
+SEO is leaving the elevator.
+SEO waits in line for the elevator.
+The elevator is here.
+Manager entered the elevator.
+SEO calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at G.
+Manager is at ground floor.
+Manager is leaving the elevator.
+Manager waits in line for the elevator.
+The elevator is here.
+Intern entered the elevator.
+Manager calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at G.
+Intern is at ground floor.
+Intern is leaving the elevator.
+Intern waits in line for the elevator.
+The elevator is here.
+Manager entered the elevator.
+Intern calls the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+Manager is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Manager is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at S.
+Manager is at secret floor with nuclear weapons.
+Manager is leaving the elevator.
+Manager has finished work.
+The elevator is here.
+SEO entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T2.
+SEO is at top-secret floor that stores alien remains.
+SEO is leaving the elevator.
+SEO has finished work.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+			3 sec has passed.
+The elevator is at G.
+Intern entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+The elevator is at T1.
+Intern is at secret floor with experimental weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at G.
+Intern is at ground floor.
+Intern is leaving the elevator.
+Intern waits in line for the elevator.
+Intern calls the elevator.
+The elevator is here.
+Intern entered the elevator.
+The elevator is moving.
+			1 sec has passed.
+The elevator is at S.
+Intern is at secret floor with nuclear weapons.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+The elevator is at T2.
+Intern is at top-secret floor that stores alien remains.
+
+You don't have authority!!!
+
+The elevator is moving.
+			1 sec has passed.
+			2 sec has passed.
+			3 sec has passed.
+The elevator is at G.
+Intern is at ground floor.
+Intern is leaving the elevator.
+Intern has finished work.
+Work day is over.
